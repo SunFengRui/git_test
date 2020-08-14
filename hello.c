@@ -7,3 +7,10 @@ int main(int argc,char *argc[])
 
 
 }
+
+
+void a_func(void)
+{
+    printf("hello a\n");
+
+}
