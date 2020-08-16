@@ -9,6 +9,6 @@ int main(int argc,char *argc[])
 }
 void b_first_func(void)
 {
-
+	printf("hello b\n");
 
 }
