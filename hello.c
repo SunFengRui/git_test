@@ -19,6 +19,8 @@ void a_func(int para)
 }
 void b_first_func(void)
 {
+
+	printf("haha a modify b");
 	int tmp=0;
 	printf("hello b\n");
 
