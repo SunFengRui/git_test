@@ -9,12 +9,17 @@ int main(int argc,char *argc[])
 }
 
 
-void a_func(void)
+void a_func(int para)
 {
     printf("hello a\n");
+	if(para==1)
+		{
+			printf("haha b modify a");
+		}
 }
 void b_first_func(void)
 {
+	int tmp=0;
 	printf("hello b\n");
 
 }
