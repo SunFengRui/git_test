@@ -7,6 +7,12 @@ int main(int argc,char *argc[])
 
 
 }
+
+
+void a_func(void)
+{
+    printf("hello a\n");
+}
 void b_first_func(void)
 {
 	printf("hello b\n");
